@@ -1,0 +1,1350 @@
+/* screen - index */
+
+.index {
+  background-color: #ffffff;
+  height: 1080px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.index .pasted-image-0-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/pasted-image-0@1x.png);
+  background-size: 100% 100%;
+  height: 1080px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.index .haunted-lost-sectors-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 156px;
+  font-style: normal;
+  font-weight: 400;
+  height: 335px;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 156px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 101px;
+  width: 1520px;
+}
+
+.index .slain-the-headless-ones-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+  height: 152px;
+  left: 827px;
+  letter-spacing: 0.00px;
+  line-height: 70px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 10px 6px #000000;
+  top: 330px;
+  width: 639px;
+}
+
+.index .start-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 157px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1441px;
+  letter-spacing: 0.00px;
+  line-height: 157px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 875px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - page-1 */
+
+.page-1 {
+  background-color: #ffffff;
+  height: 1080px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-1 .destiny-2-festi-dless-ones-feat-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/destiny-2-festival-of-the-lost-haunted-sectors-headless-ones-fea@1x.png);
+  background-size: 100% 100%;
+  height: 1080px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-1 .rectangle-1-C61RwL {
+  --z-index: 1;
+  background: linear-gradient(90.59deg, #000000 2.35%, rgba(45, 45, 45, 0.65) 59.52%, rgba(128, 128, 128, 0) 98.31%);
+  background-color: transparent;
+  height: 1158px;
+  left: -31px;
+  opacity: 1;
+  position: absolute;
+  top: -17px;
+  width: 1968px;
+}
+
+.page-1 .disclaimer-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 156px;
+  font-style: normal;
+  font-weight: 400;
+  height: 268px;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 156px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 101px;
+  width: 667px;
+}
+
+.page-1 .continue-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 157px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1306px;
+  letter-spacing: 0.00px;
+  line-height: 157px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 875px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.page-1 .all-characters-val-of-the-lost-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Oleo Script', Helvetica;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: 381px;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 395px;
+  width: 1102px;
+}
+
+.page-1 .go-back-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 996px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - page-2 */
+
+.page-2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 1080px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-2 .rectangle-1-C61RwL {
+  --z-index: 0;
+  background-color: #000000;
+  height: 1158px;
+  left: -31px;
+  opacity: 1;
+  position: absolute;
+  top: -17px;
+  width: 1968px;
+}
+
+.page-2 .continue-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 157px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1357px;
+  letter-spacing: 0.00px;
+  line-height: 157px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 875px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.page-2 .it-has-been-alw-u-here-guardian-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Oleo Script', Helvetica;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: 381px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 402px;
+  width: 1102px;
+}
+
+.page-2 .they-call-them-e-headless-ones-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  height: 206px;
+  left: 304px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 114px;
+  width: 1321px;
+}
+
+.page-2 .go-back-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 996px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - page-3 */
+
+.page-3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 1080px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-3 .rectangle-1-C61RwL {
+  --z-index: 0;
+  background-color: #000000;
+  height: 1158px;
+  left: -31px;
+  opacity: 1;
+  position: absolute;
+  top: -17px;
+  width: 1968px;
+}
+
+.page-3 .continue-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 157px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1357px;
+  letter-spacing: 0.00px;
+  line-height: 157px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 875px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.page-3 .its-full-of-hiv-s-what-are-they-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Oleo Script', Helvetica;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: 381px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 402px;
+  width: 1102px;
+}
+
+.page-3 .this-place-is-strange-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  height: 206px;
+  left: 304px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 114px;
+  width: 1321px;
+}
+
+.page-3 .go-back-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 996px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - page-4 */
+
+.page-4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 1080px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-4 .rectangle-1-C61RwL {
+  --z-index: 0;
+  background-color: #000000;
+  height: 1158px;
+  left: -31px;
+  opacity: 1;
+  position: absolute;
+  top: -17px;
+  width: 1968px;
+}
+
+.page-4 .continue-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 157px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1357px;
+  letter-spacing: 0.00px;
+  line-height: 157px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 875px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.page-4 .we-have-to-make-minate-them-all-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Oleo Script', Helvetica;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: 381px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 402px;
+  width: 1102px;
+}
+
+.page-4 .lets-summon-one-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  height: 206px;
+  left: 304px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 114px;
+  width: 1321px;
+}
+
+.page-4 .go-back-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 996px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - page-5 */
+
+.page-5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 1080px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-5 .x7-fzzfje5wh-b62x-zsn2f-bd3-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/7fzzfje5whb62xzsn2fbd3-1@1x.png);
+  background-size: 100% 100%;
+  height: 1080px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-5 .rectangle-1-C61RwL {
+  --z-index: 1;
+  background-color: #000000;
+  height: 1158px;
+  left: -31px;
+  opacity: 0.52;
+  position: absolute;
+  top: -17px;
+  width: 1968px;
+}
+
+.page-5 .drag-the-progre-apture-the-zone-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Oleo Script', Helvetica;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: 381px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 10px 6px #000000;
+  top: 402px;
+  width: 1102px;
+}
+
+.page-5 .rectangle-2-C61RwL {
+  --z-index: 3;
+  background-color: #707b84;
+  border-radius: 45px;
+  height: 69px;
+  left: 431px;
+  opacity: 1;
+  position: absolute;
+  top: 712px;
+  width: 1042px;
+}
+
+.page-5 .ellipse-1-C61RwL {
+  --z-index: 4;
+  background-color: #5a2a7e;
+  border-radius: 54px;
+  height: 108px;
+  left: 431px;
+  opacity: 1;
+  position: absolute;
+  top: 693px;
+  width: 108px;
+}
+
+.page-5 .go-back-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 996px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - page-6 */
+
+.page-6 {
+  background-color: transparent;
+  height: 1080px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-6 .x7-fzzfje5wh-b62x-zsn2f-bd3-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/7fzzfje5whb62xzsn2fbd3-1@1x.png);
+  background-size: 100% 100%;
+  height: 1080px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-6 .rectangle-1-C61RwL {
+  --z-index: 1;
+  background-color: #000000;
+  height: 1158px;
+  left: -31px;
+  opacity: 0.52;
+  position: absolute;
+  top: -17px;
+  width: 1968px;
+}
+
+.page-6 .rectangle-2-C61RwL {
+  --z-index: 2;
+  background-color: #dc9a00;
+  border: 1px solid #707070;
+  border-radius: 45px;
+  height: 69px;
+  left: 431px;
+  opacity: 1;
+  position: absolute;
+  top: 712px;
+  width: 1042px;
+}
+
+.page-6 .rectangle-3-C61RwL {
+  --z-index: 3;
+  background-color: #7e39b3;
+  border-radius: 45px;
+  height: 69px;
+  left: 431px;
+  opacity: 1;
+  position: absolute;
+  top: 712px;
+  width: 1042px;
+}
+
+.page-6 .drag-the-progre-apture-the-zone-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Oleo Script', Helvetica;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: 381px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 10px 6px #000000;
+  top: 402px;
+  width: 1102px;
+}
+
+.page-6 .ellipse-1-C61RwL {
+  --z-index: 5;
+  background-color: #5a2a7e;
+  border-radius: 54px;
+  height: 108px;
+  left: 1365px;
+  opacity: 1;
+  position: absolute;
+  top: 693px;
+  width: 108px;
+}
+
+.page-6 .continue-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 157px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1357px;
+  letter-spacing: 0.00px;
+  line-height: 157px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 875px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.page-6 .go-back-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 996px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - page-7 */
+
+.page-7 {
+  background-color: transparent;
+  height: 1080px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-7 .destiny-2-haunted-sectors-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/destiny-2-haunted-sectors@1x.png);
+  background-size: 100% 100%;
+  height: 1084px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-7 .rectangle-1-C61RwL {
+  --z-index: 1;
+  background-color: #000000;
+  cursor: pointer;
+  height: 1158px;
+  left: -31px;
+  opacity: 0.52;
+  position: absolute;
+  top: -17px;
+  width: 1968px;
+}
+
+.page-7 .they-are-here-t-let-them-escape-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Oleo Script', Helvetica;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: 381px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 10px 6px #000000;
+  top: 493px;
+  width: 1102px;
+}
+
+.page-7 .continue-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 157px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1357px;
+  letter-spacing: 0.00px;
+  line-height: 157px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 875px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.page-7 .go-back-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 996px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - page-8 */
+
+.page-8 {
+  background-color: transparent;
+  height: 1080px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-8 .destiny-2-festi-headless-ones-1-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/destiny-2-festival-of-the-lost-haunted-sectors-headless-ones-1-1@1x.png);
+  background-size: 100% 100%;
+  height: 1080px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-8 .rectangle-1-C61RwL {
+  --z-index: 1;
+  background-color: #000000;
+  height: 1158px;
+  left: -31px;
+  opacity: 1;
+  position: absolute;
+  top: -17px;
+  width: 1968px;
+}
+
+.page-8 .pick-carefully-fast-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Oleo Script', Helvetica;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: 381px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 10px 6px #000000;
+  top: 390px;
+  width: 1102px;
+}
+
+.page-8 .choose-your-weapon-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  height: 206px;
+  left: 304px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 153px;
+  width: 1321px;
+}
+
+.page-8 .untitled-1-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/untitled-1@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 831px;
+  left: 1043px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 249px;
+  width: 831px;
+}
+
+.page-8 .one-thousand-vo-stiny-2feature-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/one-thousand-voices-exotic-fusion-rifle-destiny-2-feature@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 464px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 472px;
+  width: 824px;
+}
+
+.page-8 .go-back-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 996px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - page-9 */
+
+.page-9 {
+  background-color: transparent;
+  height: 1080px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-9 .destiny-2-festi-headless-ones-1-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/destiny-2-festival-of-the-lost-haunted-sectors-headless-ones-1-1@1x.png);
+  background-size: 100% 100%;
+  height: 1080px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-9 .destiny-2-festi-headless-ones-1-VMr6Om {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/destiny-2-festival-of-the-lost-haunted-sectors-headless-ones-1-2@1x.png);
+  background-size: 100% 100%;
+  height: 1080px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-9 .rectangle-1-C61RwL {
+  --z-index: 2;
+  background-color: #000000;
+  height: 1158px;
+  left: -31px;
+  opacity: 0.45;
+  position: absolute;
+  top: -17px;
+  width: 1968px;
+}
+
+.page-9 .time-to-slain-t-clean-the-area-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Oleo Script', Helvetica;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: 381px;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 10px 6px #000000;
+  top: 390px;
+  width: 1102px;
+}
+
+.page-9 .great-choice-guardian-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  height: 206px;
+  left: 304px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 153px;
+  width: 1321px;
+}
+
+.page-9 .continue-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 157px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1357px;
+  letter-spacing: 0.00px;
+  line-height: 157px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 875px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.page-9 .go-back-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 996px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - page-10 */
+
+.page-10 {
+  background-color: transparent;
+  height: 1080px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-10 .med2021fotlp-e0-f3727c39433c-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/med-2021-fotl-press-kit-compressed-pumpkin-boss-04-adbc9b55-b2fa@1x.png);
+  background-size: 100% 100%;
+  height: 1084px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-10 .rectangle-1-C61RwL {
+  --z-index: 1;
+  background-color: #000000;
+  height: 1158px;
+  left: -31px;
+  opacity: 0.45;
+  position: absolute;
+  top: -17px;
+  width: 1968px;
+}
+
+.page-10 .your-ultimate-super-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'Oleo Script', Helvetica;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 10px 6px #000000;
+  top: 464px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.page-10 .use-one-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  height: 206px;
+  left: -338px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 249px;
+  width: 1321px;
+}
+
+.page-10 .your-weapon-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'Oleo Script', Helvetica;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 10px 6px #000000;
+  top: 586px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.page-10 .go-back-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 996px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - page-11 */
+
+.page-11 {
+  background-color: transparent;
+  height: 1080px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-11 .httpsspecial-833fe125f180x0-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/https---specials-images-forbesimg-com-imageserve-6168278fe3f5183@1x.png);
+  background-size: 100% 100%;
+  height: 1400px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 2488px;
+}
+
+.page-11 .rectangle-1-C61RwL {
+  --z-index: 1;
+  background-color: #000000;
+  height: 1158px;
+  left: -31px;
+  opacity: 0.45;
+  position: absolute;
+  top: -17px;
+  width: 1968px;
+}
+
+.page-11 .good-job-guardi-face-them-again-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Oleo Script', Helvetica;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 10px 6px #000000;
+  top: 488px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.page-11 .and-it-exploded-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  height: 206px;
+  left: -165px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 190px;
+  width: 1321px;
+}
+
+.page-11 .the-end-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 157px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1269px;
+  letter-spacing: 0.00px;
+  line-height: 157px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 840px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.page-11 .go-back-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'ParryHotter-Regular', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 996px;
+  white-space: nowrap;
+  width: auto;
+}
